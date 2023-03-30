@@ -13,6 +13,7 @@ public class Curademotest {
 	@Test
 	public void testGoalSetter() {
 		
+		//githubtest
 		//open browser
         ChromeOptions options = new ChromeOptions();
         options.addArguments("--remote-allow-origins=*");
