@@ -5,7 +5,8 @@
     <classes>
       <class name="com.curademo.testcases.Curademotest">
         <methods>
-          <include name="testGoalSetter"/>
+          <include name="testBookAppointmentOne"/>
+          <include name="setup"/>
         </methods>
       </class> <!-- com.curademo.testcases.Curademotest -->
     </classes>
